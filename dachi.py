@@ -18,3 +18,5 @@ async def on_message(message):
         await message.channel.send('Hello!')
 
 client.run(secret.TOKEN)
+
+# update test
